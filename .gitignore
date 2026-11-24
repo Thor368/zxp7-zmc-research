@@ -1,0 +1,6 @@
+# runtime captures — contain device data and plaintext secrets; never commit
+captures/
+*.log
+
+__pycache__/
+*.pyc
